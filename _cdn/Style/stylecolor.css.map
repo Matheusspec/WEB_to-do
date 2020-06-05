@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAK,CACD,gBAAgB,CAJA,SAAS,CAMzB,OAAG,CACC,gBAAgB,CANJ,OAAO,CAYvB,WAAM,CACF,UAAU,CAbE,OAAO,CAgBvB,YAAO,CACH,gBAAgB,CAlBJ,SAAS",
+"sources": ["style.scss"],
+"names": [],
+"file": "stylecolor.css"
+}

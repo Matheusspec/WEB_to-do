@@ -1,0 +1,21 @@
+$backgroundColor1 : #d47216b0;
+$backgroundColor2 : #ffdaa9;
+
+#app {
+    background-color: $backgroundColor1;
+
+    li {
+        background-color: $backgroundColor2;
+    }
+}
+
+.form {
+    
+    input {
+        background: $backgroundColor2;
+    }
+
+    button {
+        background-color: $backgroundColor1;
+    }
+}
